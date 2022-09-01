@@ -1,2 +1,7 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Aug 26 15:47:08 CDT 2022","Fri Aug 26 15:47:26 CDT 2022","17913","","Play chica de humo youtube","","","","should play a song",""
+"passed","Thu Sep 01 14:58:41 CDT 2022","Thu Sep 01 14:58:41 CDT 2022","316","example to-do app","with a checked task","","","","can filter for uncompleted tasks",""
+"passed","Thu Sep 01 14:58:41 CDT 2022","Thu Sep 01 14:58:41 CDT 2022","210","","example to-do app","","","","can check off an item as completed",""
+"passed","Thu Sep 01 14:58:40 CDT 2022","Thu Sep 01 14:58:41 CDT 2022","585","","example to-do app","","","","can add new todo items",""
+"passed","Thu Sep 01 14:58:41 CDT 2022","Thu Sep 01 14:58:42 CDT 2022","304","example to-do app","with a checked task","","","","can filter for completed tasks",""
+"passed","Thu Sep 01 14:58:40 CDT 2022","Thu Sep 01 14:58:40 CDT 2022","510","","example to-do app","","","","displays two todo items by default",""
+"passed","Thu Sep 01 14:58:42 CDT 2022","Thu Sep 01 14:58:42 CDT 2022","292","example to-do app","with a checked task","","","","can delete all completed tasks",""
